@@ -21,13 +21,10 @@
 
 ![Azure setup](img/azure-ad-sf-sso-1.png)
 ![Azure setup-2](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/common/edit-urls.png)
+![Azure setup-7](img/azure-ad-sf-sso-7.png)
 ![Azure setup-3](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/common/metadataxml.png)
 ![Azure setup-4](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/common/copy-configuration-urls.png)
 
-![Azure setup-6](img/azure-ad-sf-sso-6.png)
-![Azure setup-7](img/azure-ad-sf-sso-7.png)
-![Azure setup-8](img/azure-ad-sf-sso-8.png)
-![Azure setup-9](img/azure-ad-sf-sso-9.png)
 
 
 <a name="sfsetup"></a>
