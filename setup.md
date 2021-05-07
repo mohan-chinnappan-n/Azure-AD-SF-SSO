@@ -1,9 +1,9 @@
 # Setting up Salesforce SSO with Azure Active Directory
 
 ## Topics
--[Azure AD setup](#adsetup)
--[Salesforce setup](#sfsetup)
--[Resources](#resources)
+- [Azure AD setup](#adsetup)
+- [Salesforce setup](#sfsetup)
+-  [Resources](#resources)
 
 <a name="adsetup"></a>
 ## Azure AD Setup
