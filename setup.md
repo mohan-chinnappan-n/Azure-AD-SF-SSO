@@ -19,10 +19,12 @@
     - This account is what enables a user to be authorized to use the app, after they have authenticated through single sign-on. 
     - For selected apps, Azure Active Directory supports the ability to automatically **provision and de-provision** these accounts.
 
-![Azure setu](img/azure-ad-sf-sso-1.png)
+![Azure setup](img/azure-ad-sf-sso-1.png)
 
 <a name="sfsetup"></a>
 ## Salesforce Setup
+![SF setup](img/azure-ad-sf-sso-2.png)
+
 
 <a name="resources"></a>
 
