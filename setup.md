@@ -24,7 +24,7 @@
 <a name="sfsetup"></a>
 ## Salesforce Setup
 ![SF setup](img/azure-ad-sf-sso-2.png)
-
+![SF setup-2](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/media/salesforce-tutorial/salesforcexml.png)
 
 <a name="resources"></a>
 
