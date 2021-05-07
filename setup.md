@@ -22,7 +22,7 @@
 ![Azure setup](img/azure-ad-sf-sso-1.png)
 ![Azure setup-2](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/common/edit-urls.png)
 ![Azure setup-3](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/common/metadataxml.png)
-![Azure setup-4](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/common/copy-configuration-urls.pn)
+![Azure setup-4](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/common/copy-configuration-urls.png)
 <a name="sfsetup"></a>
 ## Salesforce Setup
 ![SF setup](img/azure-ad-sf-sso-2.png)
