@@ -26,7 +26,7 @@
 ![SF setup](img/azure-ad-sf-sso-2.png)
 ![SF setup-2](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/media/salesforce-tutorial/salesforcexml.png)
 ![SF setup-3](img/azure-ad-sf-sso-3.png)
-![SF setup-4](img/azure-ad-sf-sso-4.png)
+![SF setup-4](img/azure-ad-sf-sso-5.png)
 
 
 
